@@ -1,6 +1,5 @@
 # Coba Express
-
-Nyobain running framework express dengan views engine ejs dan changes monitor nodemon.
+Running framework nodejs dengan views engine ejs dan changes monitor nodemon.
 
 ## Getting Started
 
